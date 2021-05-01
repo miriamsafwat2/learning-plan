@@ -1,5 +1,7 @@
 ### My Learning Plan & Achievments
 
+## Web Development
+
 Topic          | TODO                                 | Progress    | Certificate 
 ---------------|--------------------------------------|-------------|--------------------------------------------------------------------------------
 |**HTML\CSS**  | Responsive Web Design (FCC)          | Done        | https://www.freecodecamp.org/certification/miriam.safwat/responsive-web-design
@@ -26,33 +28,55 @@ Topic          | TODO                                 | Progress    | Certificat
 |              | Pluralsight Course2                  | Done |
 |              | githubbranching.com                  | Done |
 |              | Udacity                              | Done |
+|**SQL**       | The Complete SQL Bootcamp 2020: Go from Zero to Hero         | Done | https://www.udemy.com/certificate/UC-10afedbc-524e-4130-8484-c195b69c7cb0/ 
+|              | Solving Hackerrank SQL Problems      | In Progress | Badges: https://www.hackerrank.com/miriam_safwat
+
+## CI/CD and Test Automation
+Topic          | TODO                                 | Progress    | Certificate 
+---------------|--------------------------------------|-------------|--------------------------------------------------------------------------------
 |**CI/CD**     | CI/CD Pipline with Jenkins           | Done | https://certificates.simplicdn.net/share/2522821.pdf
 |              | Learn DevOps: CI/CD with Jenkins using Pipelines and Docker| Done | https://www.udemy.com/certificate/UC-70bccad5-270c-4add-862e-9fa2f9bb8c62/
 |              | Docker                               |In Progress|
 |**Test Automation**|Automation framework development with Selenium C# (Advanced)  | Done | https://www.udemy.com/certificate/UC-OEKES1T2/
 |                   |Selenium Webdriver - Master Synchronization Techniques        | Done | https://www.udemy.com/certificate/UC-T5DH3ZDF/
-|**SQL**            | The Complete SQL Bootcamp 2020: Go from Zero to Hero         | Done | https://www.udemy.com/certificate/UC-10afedbc-524e-4130-8484-c195b69c7cb0/ 
-|                   | Solving Hackerrank SQL Problems | In Progress | Badges: https://www.hackerrank.com/miriam_safwat
 |**Agile**          | Simplilearn Course              | In Progress |
-|**Projects** | mypersonalverse.com | |
-|| 20 Javascript Projects ||
-|| 50 CSS Projects ||
-|| Animation Projects ||
-|| Vanilla JS Projects ||
-|| Udacity Projects ||
-|| Frontend mentor ||
-|| Cloning Netflix ||
-|**Others**| Pyramid of Refactoring (Java) - Clean Code Gradually | Done | https://www.udemy.com/certificate/UC-60897450-244f-4608-8ac3-3b2222d59062/ 
-|          | Spice Up Your C# Code With Advanced Language Features | Done | https://www.udemy.com/certificate/UC-b33af43a-be36-421a-bc76-8f1d4b253b8a/ 
-|**Algorithms & Data Structures**| Hackerrank Problem-Solving | In Progress  | Badges: https://www.hackerrank.com/miriam_safwat?hr_r=1
-|| [Course] Master the Coding Interview: Data Structures and Algorithms | https://www.udemy.com/course-dashboard-redirect/?course_id=1917546
-|| [Book] Grokking Algorithms | In Progress |
-|| [Book] Cracking the Interview Questions  | In Progress |
-| **Books** | Clean Code |  Done |
-|| Clean Coder | In Progress |
-|| Clean Architecture | TODO |
-|| Head First: Design Patterns | In Progress |
-|| Refactoring | TODO |
-|| The Paragmetic Programmer   | TODO |
-|| Code Complete  | TODO |
-|| Legacy Code  | TODO |
+
+## Projects
+Project Name                          | Progress    
+--------------------------------------|-------------
+|mypersonalverse.com | Done
+| 20 Javascript Projects | In Progress
+| 50 CSS Projects | In Progress
+| Animation Projects | Todo
+| Vanilla JS Projects | Todo
+| Udacity Professional Web Development Projects | 2/2 Done
+| Udacity Advanced Web Development Projects | 1/3 are done
+| Frontend mentor | In Progress
+| Cloning Netflix | Todo
+
+## Others
+Topic          | TODO                                 | Progress    | Certificate 
+---------------|--------------------------------------|-------------|-------------------------------------
+| Pyramid of Refactoring (Java) - Clean Code Gradually | Done | https://www.udemy.com/certificate/UC-60897450-244f-4608-8ac3-3b2222d59062/ 
+| Spice Up Your C# Code With Advanced Language Features | Done | https://www.udemy.com/certificate/UC-b33af43a-be36-421a-bc76-8f1d4b253b8a/ 
+
+## Algorithms & Data Structures
+Todo                                  | Progress    |
+--------------------------------------|-------------|
+|= Hackerrank Problem-Solving | In Progress  | Badges: https://www.hackerrank.com/miriam_safwat?hr_r=1
+| [Course] Master the Coding Interview: Data Structures and Algorithms | https://www.udemy.com/course-dashboard-redirect/?course_id=1917546
+| [Book] Grokking Algorithms | In Progress |
+| [Book] Cracking the Interview Questions  | In Progress |
+
+
+## Books
+Book Title                            | Progress    
+--------------------------------------|-------------
+| Clean Code |  Done |
+| Clean Coder | In Progress |
+| Clean Architecture | TODO |
+| Head First: Design Patterns | In Progress |
+| Refactoring | TODO |
+| The Paragmetic Programmer   | TODO |
+| Code Complete  | TODO |
+| Legacy Code  | TODO |
