@@ -16,7 +16,7 @@ Topic          | TODO                                 | Progress    | Certificat
 |              | 10 days Javascript (Hackerrank)      | In Progress | Badges: https://www.hackerrank.com/miriam_safwat
 |**Node JS**   | Udacity Professional Web Development | Done        | https://graduation.udacity.com/confirm/DKUDQLH5
 |              | Pluralsight Course                   | In Progress |
-|              | Traversy Crash Course                | Done        |
+|              | Traversy Crash Course                | Done        | https://www.youtube.com/watch?v=fBNz5xF-Kx4&t=4500s
 |**Webpack**   | Udacity Advanced Web Development     | Done        |
 |              | Pluralsight                          | In Progress |
 |**React**     | Udacity Advanced Web Development     | In Progress |
