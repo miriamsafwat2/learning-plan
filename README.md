@@ -13,7 +13,7 @@ Topic          | TODO                                 | Progress    | Certificat
 |**Javascript**| Udacity Professional Web Development | Done        | https://graduation.udacity.com/confirm/DKUDQLH5
 |              | [Course] Javascript the Wierd Parts  | Done        | https://www.udemy.com/certificate/UC-WIJV9SPX/
 |              | JavaScript Algorithms and Data Structures (FCC) | In Progress | 4/5 projects are done
-|              | 10 days Javascript (Hackerrank)      | In Progress | 
+|              | 10 days Javascript (Hackerrank)      | In Progress | Badges: https://www.hackerrank.com/miriam_safwat
 |**Node JS**   | Udacity Professional Web Development | Done        | https://graduation.udacity.com/confirm/DKUDQLH5
 |              | Pluralsight Course                   | In Progress |
 |              | Traversy Crash Course                | Done        |
