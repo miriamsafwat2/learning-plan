@@ -55,15 +55,15 @@ Project Name                          | Progress
 | Cloning Netflix | Todo
 
 ## Others
-Topic          | TODO                                 | Progress    | Certificate 
----------------|--------------------------------------|-------------|-------------------------------------
-| Pyramid of Refactoring (Java) - Clean Code Gradually | Done | https://www.udemy.com/certificate/UC-60897450-244f-4608-8ac3-3b2222d59062/ 
-| Spice Up Your C# Code With Advanced Language Features | Done | https://www.udemy.com/certificate/UC-b33af43a-be36-421a-bc76-8f1d4b253b8a/ 
+Title                                                   |  Progress  | Certificate 
+--------------------------------------------------------|------------|------------------------------------
+| Pyramid of Refactoring (Java) - Clean Code Gradually  | Done       | https://www.udemy.com/certificate/UC-60897450-244f-4608-8ac3-3b2222d59062/ 
+| Spice Up Your C# Code With Advanced Language Features | Done       | https://www.udemy.com/certificate/UC-b33af43a-be36-421a-bc76-8f1d4b253b8a/ 
 
 ## Algorithms & Data Structures
 Todo                                  | Progress    |
 --------------------------------------|-------------|
-|= Hackerrank Problem-Solving | In Progress  | Badges: https://www.hackerrank.com/miriam_safwat?hr_r=1
+| Hackerrank Problem-Solving | In Progress  | Badges: https://www.hackerrank.com/miriam_safwat?hr_r=1
 | [Course] Master the Coding Interview: Data Structures and Algorithms | https://www.udemy.com/course-dashboard-redirect/?course_id=1917546
 | [Book] Grokking Algorithms | In Progress |
 | [Book] Cracking the Interview Questions  | In Progress |
