@@ -61,8 +61,8 @@ Title                                                   |  Progress  | Certifica
 | Spice Up Your C# Code With Advanced Language Features | Done       | https://www.udemy.com/certificate/UC-b33af43a-be36-421a-bc76-8f1d4b253b8a/ 
 
 ## Algorithms & Data Structures
-Todo                                  | Progress    ||
---------------------------------------|-------------||
+Todo                                  | Progress    | Notes |
+--------------------------------------|-------------|----|
 | Hackerrank Problem-Solving | In Progress  | Badges: https://www.hackerrank.com/miriam_safwat?hr_r=1
 | [Course] Master the Coding Interview: Data Structures and Algorithms | In Progress | https://www.udemy.com/course-dashboard-redirect/?course_id=1917546
 | [Book] Grokking Algorithms | In Progress |
