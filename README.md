@@ -4,7 +4,7 @@ Topic          | TODO                                 | Progress    | Certificat
 ---------------|--------------------------------------|-------------|--------------------------------------------------------------------------------
 |**HTML\CSS**  | Responsive Web Design (FCC)          | Done        | https://www.freecodecamp.org/certification/miriam.safwat/responsive-web-design
 |              | Udacity Web Development Challenger   | Done        | https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/81bfde12-b8a5-4335-8d57-853c42f480a5.pdf    
-|              | CSS Games                            | Done        |
+|              | CSS Games (codepip.com)              | Done        | https://codepip.com/user/Miriamsafwat/
 |              | CSS Battles                          | In Progress |
 |              | Frontendmentor                       | In Progress |
 |              | [Book] CSS in depth                  | In Progress |
@@ -31,9 +31,9 @@ Topic          | TODO                                 | Progress    | Certificat
 |              | Docker                               |In Progress|
 |**Test Automation**|Automation framework development with Selenium C# (Advanced)  | Done | https://www.udemy.com/certificate/UC-OEKES1T2/
 |                   |Selenium Webdriver - Master Synchronization Techniques        | Done | https://www.udemy.com/certificate/UC-T5DH3ZDF/
-|**SQL**  | The Complete SQL Bootcamp 2020: Go from Zero to Hero | Done |https://www.udemy.com/certificate/UC-10afedbc-524e-4130-8484-c195b69c7cb0/ 
-|         | Solving Hackerrank SQL Problems | In Progress | Badges: https://www.hackerrank.com/miriam_safwat
-|**Agile**|                                           ||
+|**SQL**            | The Complete SQL Bootcamp 2020: Go from Zero to Hero         | Done | https://www.udemy.com/certificate/UC-10afedbc-524e-4130-8484-c195b69c7cb0/ 
+|                   | Solving Hackerrank SQL Problems | In Progress | Badges: https://www.hackerrank.com/miriam_safwat
+|**Agile**          | Simplilearn Course              | In Progress |
 |**Projects** | mypersonalverse.com | |
 || 20 Javascript Projects ||
 || 50 CSS Projects ||
