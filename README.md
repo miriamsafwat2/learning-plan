@@ -26,7 +26,7 @@ Topic          | TODO                                 | Progress    | Certificat
 |**SASS**      |                                      | Done | Applied in Udacity Webpack project
 |**Git/GitHub**| Pluralsight Course1                  | Done |
 |              | Pluralsight Course2                  | Done |
-|              | githubbranching.com                  | Done |
+|              | https://learngitbranching.js.org     | Done |
 |              | Udacity                              | Done |
 |**SQL**       | The Complete SQL Bootcamp 2020: Go from Zero to Hero         | Done | https://www.udemy.com/certificate/UC-10afedbc-524e-4130-8484-c195b69c7cb0/ 
 |              | Solving Hackerrank SQL Problems      | In Progress | Badges: https://www.hackerrank.com/miriam_safwat
