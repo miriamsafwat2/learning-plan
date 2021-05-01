@@ -18,16 +18,16 @@ Topic          | TODO                                 | Progress    | Certificat
 |              | Pluralsight Course                   | In Progress |
 |              | Traversy Crash Course                | Done        | https://www.youtube.com/watch?v=fBNz5xF-Kx4&t=4500s
 |**Webpack**   | Udacity Advanced Web Development     | Done        |
-|              | Pluralsight                          | In Progress |
+|              | Webpack Fundamentals - Pluralsight   | In Progress |
 |**React**     | Udacity Advanced Web Development     | In Progress |
 |**Redux**     | Udacity Advanced Web Development     | TODO |
 |              |Frontend Development Libraries (FCC)  | TODO |
 |**Unit Testing**|Jest                                | Done | Applied in Udacity Webpack project
 |**SASS**      |                                      | Done | Applied in Udacity Webpack project
-|**Git/GitHub**| Pluralsight Course1                  | Done |
-|              | Pluralsight Course2                  | Done |
+|**Git/GitHub**| How Git Works - Pluralsight          | In Progress |
+|              | Mastering Git - Pluralsight          | In Progress |
 |              | https://learngitbranching.js.org     | Done |
-|              | Udacity                              | Done |
+|              | Udacity - Version Control with Git   | Done | https://classroom.udacity.com/courses/ud123
 |**SQL**       | The Complete SQL Bootcamp 2020: Go from Zero to Hero         | Done | https://www.udemy.com/certificate/UC-10afedbc-524e-4130-8484-c195b69c7cb0/ 
 |              | Solving Hackerrank SQL Problems      | In Progress | Badges: https://www.hackerrank.com/miriam_safwat
 
