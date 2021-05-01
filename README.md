@@ -31,15 +31,6 @@ Topic          | TODO                                 | Progress    | Certificat
 |**SQL**       | The Complete SQL Bootcamp 2020: Go from Zero to Hero         | Done | https://www.udemy.com/certificate/UC-10afedbc-524e-4130-8484-c195b69c7cb0/ 
 |              | Solving Hackerrank SQL Problems      | In Progress | Badges: https://www.hackerrank.com/miriam_safwat
 
-## CI/CD and Test Automation
-Topic          | TODO                                 | Progress    | Certificate 
----------------|--------------------------------------|-------------|--------------------------------------------------------------------------------
-|**CI/CD**     | CI/CD Pipline with Jenkins           | Done | https://certificates.simplicdn.net/share/2522821.pdf
-|              | Learn DevOps: CI/CD with Jenkins using Pipelines and Docker| Done | https://www.udemy.com/certificate/UC-70bccad5-270c-4add-862e-9fa2f9bb8c62/
-|              | Docker                               |In Progress|
-|**Test Automation**|Automation framework development with Selenium C# (Advanced)  | Done | https://www.udemy.com/certificate/UC-OEKES1T2/
-|                   |Selenium Webdriver - Master Synchronization Techniques        | Done | https://www.udemy.com/certificate/UC-T5DH3ZDF/
-|**Agile**          | Simplilearn Course              | In Progress |
 
 ## Projects
 Project Name                          | Progress    
@@ -54,11 +45,21 @@ Project Name                          | Progress
 | Frontend mentor | In Progress
 | Cloning Netflix | Todo
 
+## CI/CD and Test Automation
+Topic          | TODO                                 | Progress    | Certificate 
+---------------|--------------------------------------|-------------|--------------------------------------------------------------------------------
+|**CI/CD**     | CI/CD Pipline with Jenkins           | Done | https://certificates.simplicdn.net/share/2522821.pdf
+|              | Learn DevOps: CI/CD with Jenkins using Pipelines and Docker| Done | https://www.udemy.com/certificate/UC-70bccad5-270c-4add-862e-9fa2f9bb8c62/
+|              | Docker                               |In Progress|
+|**Test Automation**|Automation framework development with Selenium C# (Advanced)  | Done | https://www.udemy.com/certificate/UC-OEKES1T2/
+|                   |Selenium Webdriver - Master Synchronization Techniques        | Done | https://www.udemy.com/certificate/UC-T5DH3ZDF/
+
 ## Others
 Title                                                   |  Progress  | Certificate 
 --------------------------------------------------------|------------|------------------------------------
 | Pyramid of Refactoring (Java) - Clean Code Gradually  | Done       | https://www.udemy.com/certificate/UC-60897450-244f-4608-8ac3-3b2222d59062/ 
 | Spice Up Your C# Code With Advanced Language Features | Done       | https://www.udemy.com/certificate/UC-b33af43a-be36-421a-bc76-8f1d4b253b8a/ 
+|**Agile**                                              | In Progress|
 
 ## Algorithms & Data Structures
 Todo                                  | Progress    | Notes |
