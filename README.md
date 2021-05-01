@@ -27,7 +27,7 @@ Topic          | TODO                                 | Progress    | Certificat
 |**Git/GitHub**| How Git Works - Pluralsight          | In Progress |
 |              | Mastering Git - Pluralsight          | In Progress |
 |              | https://learngitbranching.js.org     | Done |
-|              | Udacity - Version Control with Git   | Done | https://classroom.udacity.com/courses/ud123
+|              | Udacity - Version Control with Git   | Done | 
 |**SQL**       | The Complete SQL Bootcamp 2020: Go from Zero to Hero         | Done | https://www.udemy.com/certificate/UC-10afedbc-524e-4130-8484-c195b69c7cb0/ 
 |              | Solving Hackerrank SQL Problems      | In Progress | Badges: https://www.hackerrank.com/miriam_safwat
 
