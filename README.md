@@ -41,7 +41,7 @@ Project Name                          | Progress
 | Animation Projects | Todo
 | Vanilla JS Projects | Todo
 | Udacity Professional Web Development Projects | 2/2 Done
-| Udacity Advanced Web Development Projects | 3/3 are done
+| Udacity Advanced Web Development Projects | 3/3 Done
 | Frontend mentor | In Progress
 | Cloning Netflix | Todo
 
