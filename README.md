@@ -19,8 +19,8 @@ Topic          | TODO                                 | Progress    | Certificat
 |              | Traversy Crash Course                | Done        | https://www.youtube.com/watch?v=fBNz5xF-Kx4&t=4500s
 |**Webpack**   | Udacity Advanced Web Development     | Done        |
 |              | Webpack Fundamentals - Pluralsight   | In Progress |
-|**React**     | Udacity Advanced Web Development     | In Progress |
-|**Redux**     | Udacity Advanced Web Development     | TODO |
+|**React**     | Udacity Advanced Web Development     | Done |
+|**Redux**     | Udacity Advanced Web Development     | Done |
 |              |Frontend Development Libraries (FCC)  | TODO |
 |**Unit Testing**|Jest                                | Done | Applied in Udacity Webpack project
 |**SASS**      |                                      | Done | Applied in Udacity Webpack project
@@ -41,7 +41,7 @@ Project Name                          | Progress
 | Animation Projects | Todo
 | Vanilla JS Projects | Todo
 | Udacity Professional Web Development Projects | 2/2 Done
-| Udacity Advanced Web Development Projects | 1/3 are done
+| Udacity Advanced Web Development Projects | 3/3 are done
 | Frontend mentor | In Progress
 | Cloning Netflix | Todo
 
